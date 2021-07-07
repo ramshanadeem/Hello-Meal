@@ -1,0 +1,48 @@
+.drdm {
+    width: 49.60vw;
+    background-color: #FFE9E5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 45vw;
+}
+.lunch-img {
+    width: 49.60vw;
+    height: 45vw;
+}
+.p {
+    margin-right: 2.8vw !important;
+    margin-top: -0.6vw !important;
+    font-size: 1.7vw !important;
+    color: #FF3008 !important;
+}
+.lunch-text {
+    font-size: 1.7vw !important;
+    color: #6B6B6B !important;
+}
+.lunch-heading {
+    font-size: 3.4vw !important;
+    color: #FF3008 !important;
+    font-weight: bold !important;
+    margin-left: 1vw !important;
+}
+.lunch-menu {
+    margin-top: 5.2vw;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.lunch-menu-par {
+    width: 100%;
+}
+.our-menu {
+    width: 9vw !important;
+    height: 3vw !important;
+    border-radius: 1.5vw !important;
+    border: none !important;
+    outline: none !important;
+    background-color: #FF3008 !important;    
+    color: white !important;
+    font-size: 1.2vw !important;
+}

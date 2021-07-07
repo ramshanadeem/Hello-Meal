@@ -1,0 +1,55 @@
+.restaurant {
+    background: url("./restaurant.png");
+    width: 100%;
+    height: 41vw; 
+    background-size: 100% 40.3vw;
+    background-repeat: no-repeat;
+}
+.bfy-cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.bfysec-head {
+    font-size: 3vw !important;
+    font-weight: bold !important;
+    color: #4C302C !important;
+    margin-left: 2vw !important;
+}
+.gs-btn {
+    width: 10vw !important;
+    height: 3vw !important;
+    border-radius: 2vw !important;
+    border: 2px solid black !important;
+    color: #4C302C !important;
+    font-weight: bold !important;
+    font-size: 1vw !important;
+}
+.gs-btn-par {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.howitwork-heading {
+    font-size: 3vw !important;
+    font-weight: bold !important;
+}
+.howitwork-paragraph {
+    font-size: 1.5vw !important;
+    color: #6B6B6B !important;
+}
+.howitwork-text {
+    text-align: center;
+    margin-top: 2vw;
+}
+.howitwork-cardsec {
+    background: url("./restaurant-fold3-img.png");
+    width: 100%;
+    height: 40vw; 
+    background-size: 100% 40.3vw;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 3vw;
+}

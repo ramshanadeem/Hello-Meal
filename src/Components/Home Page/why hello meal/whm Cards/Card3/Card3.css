@@ -1,0 +1,40 @@
+.card3 {
+    width: 21vw;
+    height: 23vw;
+}
+.img3-div {
+    background-color: #FFE9E5;
+    width: 6.5vw;
+    height: 6.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5vw;
+}
+.img3-div img {
+    width: 4vw;
+    height: 4vw;
+}
+.img3-div-par {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.4vw
+}
+.cc3-heading {
+    font-size: 2.3vw !important;
+    color: #4C302C !important;
+    margin-left: 1.5vw !important;
+    font-weight: bold !important
+}
+.cc3-paragragh {
+    font-size: 1.5vw !important;
+    color: #6B6B6B !important;
+    margin-right: 0.7vw !important;
+}
+.card3-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

@@ -1,0 +1,29 @@
+.us-btn {
+    background-color: #4C302C !important;
+    color: white !important;
+    width: 10vw !important;
+    height: 3vw !important;
+    font-size: 1vw !important;
+}
+.us-head {
+    font-size: 4vw !important;
+    font-weight: bold !important;
+    color: #4C302C !important;
+}
+.us-text {
+    font-size: 2vw !important;
+    color: #4C302C !important;
+    margin-right: -1.9vw !important;
+}
+.uppersec {
+    width: 50vw;
+    height: 41vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 5vw;
+}
+.us-btn-par {
+    margin-top: 5vw
+}

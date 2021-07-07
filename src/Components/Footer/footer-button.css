@@ -1,0 +1,31 @@
+.facebook-btn {
+    color:  #4C302C !important;
+    background-color: #FFFFFF !important;
+    opacity: 40% !important;
+    width: 4vw !important;
+    height: 4vw !important;
+}
+.twitter-btn {
+    color:  #4C302C !important;
+    background-color: #FFFFFF !important;
+    width: 4vw !important;
+    height: 4vw !important;
+}
+.linkedin-btn {
+    color:  #4C302C !important;
+    background-color: #FFFFFF !important;
+    opacity: 40% !important;
+    width: 4vw !important;
+    height: 4vw !important;
+}
+.footer-btns {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 15vw;
+    margin-top: 1.5vw;
+}
+.linkedin-icon {
+    width: 4vw !important;
+    height: 2vw !important;
+}
